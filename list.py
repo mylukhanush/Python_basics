@@ -73,3 +73,7 @@
 
 #it is use to count the repeating elements in the list.
 # print(p.count(0))
+
+
+
+

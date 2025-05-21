@@ -63,8 +63,9 @@
 # m=int(input("enter min number:"))
 # n=int(input("enter max number:"))
 # while m<=n:
+#     m += 2
 #     print(m)
-    # m+=2
+
 
 
 # m=int(input("enter min number:"))
